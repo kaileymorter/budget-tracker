@@ -7,7 +7,7 @@
   
   **[Deployed Application](https://serene-beach-53594.herokuapp.com/)**
   
-  ![Screen Shot 2020-08-30 at 9 50 59 AM](https://user-images.githubusercontent.com/62969025/91663517-8aa8a400-eaa6-11ea-894e-fe9059243ef9.png)
+![Screen Shot 2020-08-30 at 9 54 04 AM](https://user-images.githubusercontent.com/62969025/91663542-c3e11400-eaa6-11ea-9ef3-a6c8b6ee1e59.png)
   
   ## Table of Contents:
   * [User Story](#user-story)
